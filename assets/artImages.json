@@ -1,0 +1,35 @@
+{
+"artImages":[
+    {"name":"Experiment 12iB1, 1/10",
+      "medium": "print",
+      "technique": "serigraph",
+      "dimensions": "67 x 67 cm",
+      "year": "2017",
+      "support": "Rosaspina Fabriano 285gsm",
+      "file":"assets/imgs/artImages/Exp12iB1_1_of_10.jpg"
+    },
+      {"name":"Experiment 12J1b, 1/10",
+        "medium": "print",
+        "technique": "serigraph",
+        "dimensions": "67 x 67 cm",
+        "year": "2017",
+        "support": "Rosaspina Fabriano 285gsm",
+        "file":"assets/imgs/artImages/exp12J1b.jpg"
+      },
+        {"name":"Litho 9a",
+          "medium": "print",
+          "technique": "polyester plate lithograph",
+          "dimensions": "70 x 50 cm",
+          "year": "2018",
+          "support": "Rosaspina Fabriano 285gsm",
+          "file":"assets/imgs/artImages/litho9a.jpg"
+        },
+          {"name":"Litho 11(sold)",
+            "medium": "print",
+            "technique": "polyester plate lithograph",
+            "dimensions": "100 x 70 cm",
+            "year": "2017",
+            "support": "Rosaspina Fabriano 285gsm",
+            "file":"assets/imgs/artImages/Litho11.jpg"}
+  ]
+}

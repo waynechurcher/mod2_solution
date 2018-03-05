@@ -1,0 +1,9 @@
+{
+"sketches":[
+  {"id":1, "name":"figure", "info": "A simple work looking at perception of what is figure, what is ground in two dimensional space"},
+  {"id":2, "name":"interference", "info":"Observation of two overlapping fields of lines. mouse/touch position affects the work"},
+  {"id":6, "name":"interferenceFuncOne", "info": "Second variation of two overlapping fields of lines. Be patient, this sketch takes a few seconds to initiate."},
+  {"id":7, "name":"interferenceFuncTwo", "info": "Third variation of  two opposing fields of lines. "},
+  {"id":3, "name":"sketchZero", "info": "constrained asynchronous movements of neighburing shapes."}
+]
+}
